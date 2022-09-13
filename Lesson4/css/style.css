@@ -1,0 +1,62 @@
+main {
+  color:gray;
+  font-family: "Larsseit";
+}
+.seven > p{
+  color: blueviolet;
+}
+
+.air {
+  color:goldenrod;
+}
+.air > p {
+  color:black;
+  font-family: "Lato";
+  font-weight: 400;
+}
+.staking {
+  color:blue;
+  font-family: "Lato";
+  font-weight: 400;
+}
+.staking > p {
+  color: rgb(166, 8, 124);
+  font-family: "Larsseit";
+  font-weight: 700;
+}
+.proof { color: rgb(86, 34, 1);
+}
+.providing {
+  color: rgb(145, 13, 24);
+}
+.faucets {
+  color: rgb(57, 6, 105);
+}
+
+.centralized {
+  color: yellow;
+}
+div.centralized {
+  color:green;
+}
+
+.work > p {
+  color: rgb(20, 113, 113);
+}
+
+footer {
+  color:yellowgreen
+}
+footer .footer {
+  color:brown
+}
+
+h2 {
+  font-family: "Roboto";
+  font-weight: 900;
+}
+
+h1 {
+  font-family: "Roboto";
+  font-weight: 900;
+}
